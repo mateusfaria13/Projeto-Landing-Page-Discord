@@ -4,7 +4,7 @@ Este projeto consistiu na criação de uma landing page inspirada no site oficia
 
 ## ✅Conclusão do Desáfio
 
-[Clique aqui](https://mateusfaria13.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://mateusfaria13.github.io/Projeto-Landing-Page-Discord/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ### Técnologias utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
